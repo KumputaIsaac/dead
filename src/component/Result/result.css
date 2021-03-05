@@ -1,0 +1,9 @@
+.words, .result{
+    display: flex;
+    justify-content: space-between;
+}
+
+.result{
+    padding: 2px;
+    /* height: 20px; */
+}
